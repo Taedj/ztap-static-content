@@ -1,0 +1,22 @@
+{
+  "bmd_levels": [
+    "Common Core 1st",
+    "Common Core 2nd",
+    "Bachelor's 3rd degree",
+    "Master's 1st",
+    "Master's 2nd degree"
+  ],
+  "engineer_levels": [
+    "1st year",
+    "2nd year",
+    "3rd year",
+    "4th year",
+    "5th year"
+  ],
+  "health_cores": [
+    "Medicine",
+    "Pharmacy",
+    "Dentistry",
+    "Veterinary"
+  ]
+}
