@@ -4,9 +4,10 @@
     "timestamp": "2025-10-03T10:00:00Z",
     "content": "We have successfully migrated to a new, faster architecture. Enjoy the improved performance!"
   },
-  {
+ {
     "title": "App Maintenance",
     "timestamp": "2025-10-01T12:00:00Z",
-    "content": "There will be scheduled maintenance this weekend. The app may be temporarily unavailable."
+    "content": "✨ We’d love to keep you with us! If you don’t log in for 90 days, your ZTAP account will be removed. Just sign in from time to time to keep everything safe and active." 
   }
+  
 ]
