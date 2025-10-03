@@ -3,24 +3,3 @@
   }
 
 
-Add the `trialActivated` field:
-     Field name:* trialActivated
-     Type:* boolean (select this from the dropdown menu)
-     Value:* true (select this from the dropdown menu)
-     Click the Add* button.
-
- Add the `trialWelcomeMessageShown` field:
-     Click on the + Add field* button again.
-     Field name:* trialWelcomeMessageShown
-     Type:* boolean
-     Value:* false
-     Click the Add* button.
-
----------------------------------------------------
-
- Add the `trialEndDate` Field
-     Click + Add field*.
-     Field name:* trialEndDate
-     Type:* timestamp
-     Value:* Select a date 7 days in the future.
-     Click Add*.
