@@ -15,3 +15,12 @@ Add the `trialActivated` field:
      Type:* boolean
      Value:* false
      Click the Add* button.
+
+---------------------------------------------------
+
+ Add the `trialEndDate` Field
+     Click + Add field*.
+     Field name:* trialEndDate
+     Type:* timestamp
+     Value:* Select a date 7 days in the future.
+     Click Add*.
