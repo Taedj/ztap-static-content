@@ -1,5 +1,10 @@
 [
-  {
+ {
+    "title": " ZTAP is now accessible directly from your browser 🎉 ",
+    "timestamp": "2025-10-08T11:43:00Z",
+    "content": "📱 For iOS users:You can now use ZTAP Live by visiting: 👉 https://studenttrackerapp-78bd0.web.app/ . ZTAP — Smart, simple, and now browser-ready for iOS users! 🚀 "
+  },
+   {
     "title": "Welcome to the New ZTAP!",
     "timestamp": "2025-10-03T10:00:00Z",
     "content": "We have successfully migrated to a new, faster architecture. Enjoy the improved performance!"
@@ -9,5 +14,4 @@
     "timestamp": "2025-09-17T12:00:00Z",
     "content": "✨ We’d love to keep you with us! If you don’t log in for 90 days, your ZTAP account will be removed. Just sign in from time to time to keep everything safe and active." 
   }
-  
 ]
