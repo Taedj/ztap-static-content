@@ -1,42 +1,42 @@
 [
- {
-  "title": "ZTAP 1.0.7 — Rich Media & Bug Fixes! 🎬",
-  "timestamp": "2025-11-25T10:00:00Z",
-  "content": "🚀 ZTAP 1.0.7 is live! We’ve enhanced your announcements and squashed some bugs to improve reliability.\n\n✨ **What’s New:**\n- **Rich Media Announcements:** You can now present **videos or images** directly in your announcements using direct links.\n- **Notification Fixes:** Resolved issues with **push notifications** to ensure you receive alerts reliably.\n\n💡 Create more engaging content and stay connected without interruption in ZTAP 1.0.7!"
- },
-{
-  "title": "ZTAP 1.0.6 — Smoother Onboarding & Push Notifications! 🔔",
-  "timestamp": "2025-11-15T09:00:00Z",
-  "content": "🚀 ZTAP 1.0.6 is live! This update focuses on streamlining the user experience and keeping you connected.\n\n✨ **What’s New:**\n- **Push Notifications:** The app now sends alerts immediately when a new announcement is added.\n- **Registration Update:** The \"Invitation Course Code\" field is now optional, making sign-up easier.\n- **30-Day Trial:** Updated the welcome experience for new users to include a 30-day trial starting from registration day.\n- **Code Quality:** Resolved various code style issues and warnings to improve application maintainability.\n\n💡 Enjoy a seamless start and stay in the loop with ZTAP 1.0.6!"
- },
- {
-  "title": "ZTAP 1.0.5 — Engage with Polls and Votes! 🗳️",
-  "timestamp": "2025-11-01T22:00:00Z",
-  "content": "🚀 ZTAP 1.0.5 is live! This update introduces an exciting new way to engage users through interactive polls.\n\n✨ **What’s New:**\n- Added **poll creation and voting functionality** within announcements — making participation easier and more dynamic.\n\n💡 Encourage feedback, collect opinions, and make decision-making more interactive with ZTAP 1.0.5 — where collaboration meets innovation!"
-},
-{
- "title": "ZTAP 1.0.4 — Smarter Reporting, Better Insights! 📊",
-"timestamp": "2025-10-31T22:00:00Z",
-"content": "🔥 The new version ZTAP 1.0.4 is here! This update focuses on improving reporting capabilities and enhancing user experience.\n\n✨ What’s New:\n- The Reports section now includes two sub-tabs: Generate Reports and Analytics for better organization and workflow.\n- Added the new Display Marks feature for easier grade visualization.\n- Fixed issues related to PDF report generation, ensuring smoother exports.\n\n🚀 Experience more control, clarity, and performance with ZTAP 1.0.4 — your smarter tool for academic management!"
- }, 
- {
-  "title": "ZTAP 1.0.3 is here — Experience Amazing Enhancements! 🚀",
-  "timestamp": "2025-10-17T22:00:00Z",
-  "content": "✨ The new version ZTAP 1.0.3 is live! This release brings amazing enhancements to performance, design, and usability. Enjoy smoother navigation, faster data sync, and a refreshed interface that makes tracking and managing student progress even more intuitive. 🌟 \n\n Experience the smarter, faster, and more reliable ZTAP today! 🔥"
- }, 
- {
-    "title": " ZTAP is now accessible directly from your browser 🎉 ",
+  {
+    "title": "ZTAP 1.0.7 — Rich Media & Bug Fixes! 🎬",
+    "timestamp": "2025-11-25T10:00:00Z",
+    "content": "🚀 ZTAP 1.0.7 is live! We’ve enhanced your announcements and squashed some bugs to improve reliability.\n\n✨ **What’s New:**\n- **Rich Media Announcements:** You can now present **videos or images** directly in your announcements using direct links.\n- **Notification Fixes:** Resolved issues with **push notifications** to ensure you receive alerts reliably.\n\n💡 Create more engaging content and stay connected without interruption in ZTAP 1.0.7!"
+  },
+  {
+    "title": "ZTAP 1.0.6 — Smoother Onboarding & Push Notifications! 🔔",
+    "timestamp": "2025-11-15T09:00:00Z",
+    "content": "🚀 ZTAP 1.0.6 is live! This update focuses on streamlining the user experience and keeping you connected.\n\n✨ **What’s New:**\n- **Push Notifications:** The app now sends alerts immediately when a new announcement is added.\n- **Registration Update:** The \"Invitation Course Code\" field is now optional, making sign-up easier.\n- **30-Day Trial:** Updated the welcome experience for new users to include a 30-day trial starting from registration day.\n- **Code Quality:** Resolved various code style issues and warnings to improve application maintainability.\n\n💡 Enjoy a seamless start and stay in the loop with ZTAP 1.0.6!"
+  },
+  {
+    "title": "ZTAP 1.0.5 — Engage with Polls and Votes! 🗳️",
+    "timestamp": "2025-11-01T22:00:00Z",
+    "content": "🚀 ZTAP 1.0.5 is live! This update introduces an exciting new way to engage users through interactive polls.\n\n✨ **What’s New:**\n- Added **poll creation and voting functionality** within announcements — making participation easier and more dynamic.\n\n💡 Encourage feedback, collect opinions, and make decision-making more interactive with ZTAP 1.0.5 — where collaboration meets innovation!"
+  },
+  {
+    "title": "ZTAP 1.0.4 — Smarter Reporting, Better Insights! 📊",
+    "timestamp": "2025-10-31T22:00:00Z",
+    "content": "🔥 The new version ZTAP 1.0.4 is here! This update focuses on improving reporting capabilities and enhancing user experience.\n\n✨ What’s New:\n- The Reports section now includes two sub-tabs: Generate Reports and Analytics for better organization and workflow.\n- Added the new Display Marks feature for easier grade visualization.\n- Fixed issues related to PDF report generation, ensuring smoother exports.\n\n🚀 Experience more control, clarity, and performance with ZTAP 1.0.4 — your smarter tool for academic management!"
+  },
+  {
+    "title": "ZTAP 1.0.3 is here — Experience Amazing Enhancements! 🚀",
+    "timestamp": "2025-10-17T22:00:00Z",
+    "content": "✨ The new version ZTAP 1.0.3 is live! This release brings amazing enhancements to performance, design, and usability. Enjoy smoother navigation, faster data sync, and a refreshed interface that makes tracking and managing student progress even more intuitive. 🌟 \n\n Experience the smarter, faster, and more reliable ZTAP today! 🔥"
+  },
+  {
+    "title": "ZTAP is now accessible directly from your browser 🎉",
     "timestamp": "2025-10-08T11:43:00Z",
-    "content": "📱 For iOS users:You can now use ZTAP Live by visiting: 👉 https://studenttrackerapp-78bd0.web.app/ . ZTAP — Smart, simple, and now browser-ready for iOS users! 🚀 "
-   },
-   {
+    "content": "📱 For iOS users: You can now use ZTAP Live by visiting: 👉 https://studenttrackerapp-78bd0.web.app/ . ZTAP — Smart, simple, and now browser-ready for iOS users! 🚀"
+  },
+  {
     "title": "Welcome to the New ZTAP!",
     "timestamp": "2025-10-03T10:00:00Z",
     "content": "We have successfully migrated to a new, faster architecture. Enjoy the improved performance!"
- },
- {
+  },
+  {
     "title": "Important: ZTAP Inactivity Data Deletion Policy",
     "timestamp": "2025-09-17T12:00:00Z",
-    "content": "✨ We’d love to keep you with us! If you don’t log in for 90 days, your ZTAP account will be removed. Just sign in from time to time to keep everything safe and active." 
- }
+    "content": "✨ We’d love to keep you with us! If you don’t log in for 90 days, your ZTAP account will be removed. Just sign in from time to time to keep everything safe and active."
+  }
 ]
