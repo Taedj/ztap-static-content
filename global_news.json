@@ -1,5 +1,15 @@
 [
  {
+  "title": "ZTAP 1.0.7 — Rich Media & Bug Fixes! 🎬",
+  "timestamp": "2025-11-25T10:00:00Z",
+  "content": "🚀 ZTAP 1.0.7 is live! We’ve enhanced your announcements and squashed some bugs to improve reliability.\n\n✨ **What’s New:**\n- **Rich Media Announcements:** You can now present **videos or images** directly in your announcements using direct links.\n- **Notification Fixes:** Resolved issues with **push notifications** to ensure you receive alerts reliably.\n\n💡 Create more engaging content and stay connected without interruption in ZTAP 1.0.7!"
+}
+{
+  "title": "ZTAP 1.0.6 — Smoother Onboarding & Push Notifications! 🔔",
+  "timestamp": "2025-11-15T09:00:00Z",
+  "content": "🚀 ZTAP 1.0.6 is live! This update focuses on streamlining the user experience and keeping you connected.\n\n✨ **What’s New:**\n- **Push Notifications:** The app now sends alerts immediately when a new announcement is added.\n- **Registration Update:** The \"Invitation Course Code\" field is now optional, making sign-up easier.\n- **30-Day Trial:** Updated the welcome experience for new users to include a 30-day trial starting from registration day.\n- **Code Quality:** Resolved various code style issues and warnings to improve application maintainability.\n\n💡 Enjoy a seamless start and stay in the loop with ZTAP 1.0.6!"
+}
+ {
   "title": "ZTAP 1.0.5 — Engage with Polls and Votes! 🗳️",
   "timestamp": "2025-11-01T22:00:00Z",
   "content": "🚀 ZTAP 1.0.5 is live! This update introduces an exciting new way to engage users through interactive polls.\n\n✨ **What’s New:**\n- Added **poll creation and voting functionality** within announcements — making participation easier and more dynamic.\n\n💡 Encourage feedback, collect opinions, and make decision-making more interactive with ZTAP 1.0.5 — where collaboration meets innovation!"
