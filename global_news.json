@@ -1,5 +1,10 @@
 [
 {
+  "title": "ZTAP 1.1.0 — Faster Performance & Stability Improvements ⚡",
+  "timestamp": "2025-11-27T21:00:00Z",
+  "content": "🚀 Performance Boost: Marks load significantly faster with optimized data handling. 📱 Stability: Fixed layout issues in Archives and improved overall app responsiveness. 🔧 Under-the-hood: Enhanced system reliability and smoother navigation."
+},
+{
   "title": "ZTAP 1.0.9 — Marks Stability, Cleaner UI & Smarter Archives ⚡",
   "timestamp": "2025-11-27T10:00:00Z",
   "content": "📘 Marks stay saved on scroll, unified student name format, quick single-sheet export, enhanced Archives session view with color status & details, cleaner invite code copy/share UI, and overall stability fixes."
