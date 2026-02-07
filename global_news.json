@@ -1,5 +1,10 @@
 [
 {
+  "title": "ZTAP 1.1.1 — Smarter Tracking, Faster Experience & Enhanced Security 🎓⚡",
+  "timestamp": "2026-02-07T10:00:00Z",
+  "content": "🎓 Professor Badge Tracking: A new management interface in the Points section to monitor, grant, and track student achievement badges in real time. ⚡ Performance Boost: Faster loading of student marks and profiles thanks to optimized queries and smart caching. 📱 Enhanced UI & Navigation: Improved Archive filtering and a reorganized app structure for a smoother experience. 📚 Standardized Course Materials: All academic chapters now feature a premium, consistent design with better interactions. 🔒 Security & Stability: Critical backend security updates and dependency upgrades ensure reliable performance across all devices."
+},
+{
   "title": "ZTAP 1.1.0 — Faster Performance & Stability Improvements ⚡",
   "timestamp": "2025-11-27T21:00:00Z",
   "content": "🚀 Performance Boost: Marks load significantly faster with optimized data handling. 📱 Stability: Fixed layout issues in Archives and improved overall app responsiveness. 🔧 Under-the-hood: Enhanced system reliability and smoother navigation."
