@@ -1,5 +1,10 @@
 [
 {
+  "title": "ZTAP 1.1.2 — Greater Control, Customization & Production Ready 🚀🎨",
+  "timestamp": "2026-02-11T10:00:00Z",
+  "content": "🚪 Student \"Exit Class\" Feature: Students can now securely leave a class when needed, giving them more flexibility and control over their enrollment. 🎨 Multi-Theme Support: Enjoy a customizable experience with multiple theme options for a more personalized interface. 📢 Production Ad Configuration: Ads are now fully configured for production, ensuring stable and optimized monetization performance. 🏗️ Versioning & Production Build: Improved version control and optimized production build setup for better stability, maintainability, and deployment readiness."
+},
+  {
   "title": "ZTAP 1.1.1 — Smarter Tracking, Faster Experience & Enhanced Security 🎓⚡",
   "timestamp": "2026-02-07T10:00:00Z",
   "content": "🎓 Professor Badge Tracking: A new management interface in the Points section to monitor, grant, and track student achievement badges in real time. ⚡ Performance Boost: Faster loading of student marks and profiles thanks to optimized queries and smart caching. 📱 Enhanced UI & Navigation: Improved Archive filtering and a reorganized app structure for a smoother experience. 📚 Standardized Course Materials: All academic chapters now feature a premium, consistent design with better interactions. 🔒 Security & Stability: Critical backend security updates and dependency upgrades ensure reliable performance across all devices."
