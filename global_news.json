@@ -1,5 +1,10 @@
 [
 {
+  "title": "ZTAP 1.1.3 — Refined Experience, Smarter Announcements & Stability Boost ✨📢",
+  "timestamp": "2026-02-11T18:00:00Z",
+  "content": "🎨 UI/UX Consistency Improvements: A major visual refinement across the entire application to ensure a more cohesive, polished, and professional user experience. 📢 Enhanced Announcement System: Improved structure and presentation of announcements for clearer communication and better engagement. 🎬 Playback Fixes: Resolved critical media playback issues to ensure smooth and reliable content access. 🛠️ Stability Improvements: Addressed key performance and stability bugs to deliver a more dependable and seamless app experience."
+},
+  {
   "title": "ZTAP 1.1.2 — Greater Control, Customization & Production Ready 🚀🎨",
   "timestamp": "2026-02-11T10:00:00Z",
   "content": "🚪 Student \"Exit Class\" Feature: Students can now securely leave a class when needed, giving them more flexibility and control over their enrollment. 🎨 Multi-Theme Support: Enjoy a customizable experience with multiple theme options for a more personalized interface. 📢 Production Ad Configuration: Ads are now fully configured for production, ensuring stable and optimized monetization performance. 🏗️ Versioning & Production Build: Improved version control and optimized production build setup for better stability, maintainability, and deployment readiness."
