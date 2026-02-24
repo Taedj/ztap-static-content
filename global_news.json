@@ -1,5 +1,10 @@
 [
 {
+  "title": "ZTAP 1.1.5 — Performance Boost, Real-Time Precision & Core Optimizations 💎⚡",
+  "timestamp": "2026-02-24T18:00:00Z",
+  "content": "💎 Performance & Cost Optimizations: Deep under-the-hood enhancements to improve loading speed, reduce unnecessary data reads, and optimize overall resource consumption—making the application faster while improving operational efficiency. 🔄 Real-time Improvements: Enhanced synchronization mechanisms to ensure smoother, more accurate live updates across sessions, dashboards, and collaborative features. 🛠️ Technical Fixes: Implemented structural refinements and resolved internal issues to strengthen stability, responsiveness, and long-term maintainability."
+},
+  {
   "title": "ZTAP 1.1.4 — Advanced Group Control, Smarter Calculations & Polished Experience 🎓📊",
   "timestamp": "2026-02-21T18:00:00Z",
   "content": "🎓 Advanced Group Management: Introducing a more powerful and flexible group management system, allowing better organization, structured subgroup handling, and improved coordination across academic activities. 🎨 UI/UX Improvements: Refined interface elements, enhanced visual harmony, and smoother navigation flows to deliver a cleaner, more intuitive user experience. 📊 Workload Calculator Integration: Seamlessly integrated workload calculation tools to help users efficiently track, compute, and manage teaching hours with greater accuracy. 🐛 Bug Fixes: Resolved reported issues and optimized system performance to ensure enhanced stability and reliability throughout the application."
