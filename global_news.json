@@ -1,5 +1,10 @@
 [
-{
+ {
+"title": "ZTAP 1.2.5 — Smoother Android Login, Easy Browser Access & Flexible Class Management 📱🎓",
+"timestamp": "2026-10-08T00:00:00Z",
+"content": "📱 Android Login Improvements: Redesigned the Android login screen with a static, non-scrollable layout and centered input fields for a cleaner and more focused sign-in experience. 🌐 Browser Version: Added a new Browser Version button that opens a convenient floating dialog with a large QR code, clickable URL, and Share button for quick access from any device. 👨‍🏫 Student Class Management: Professors can now easily move enrolled students between classes directly from the Students screen using the folder icon available for each student. ⚡ Usability Improvements: Streamlined access and classroom management to make ZTAP faster and more convenient for both professors and students."
+}ة
+  {
 "title": "ZTAP 1.2.4 — Native Quiz System, Challenge Mode, QR Invites & Course Assistant 🎓⚡",
 "timestamp": "2026-10-08T00:00:00Z",
 "content": "✨ Native Quiz System: Introduced a fully integrated native quiz system for a smoother, more reliable, and seamless quiz experience directly within ZTAP. 🏆 Challenge Mode: Added a new Challenge Mode to make quizzes more interactive and engaging, encouraging students to test their knowledge in a more dynamic format. 📱 QR Invite Codes: Added QR-based invite codes for quick and convenient access to quizzes, sessions, and activities, reducing setup time for students and professors. 🤖 Course Assistant System: Introduced a new Course Assistant system to support course management and provide smarter assistance throughout the academic workflow. 🐛 Bug Fixes: Resolved various issues across the application to improve stability, reliability, navigation, and overall user experience."
