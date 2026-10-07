@@ -1,4 +1,9 @@
 [
+{
+"title": "ZTAP 1.2.4 — Native Quiz System, Challenge Mode, QR Invites & Course Assistant 🎓⚡",
+"timestamp": "2026-10-08T00:00:00Z",
+"content": "✨ Native Quiz System: Introduced a fully integrated native quiz system for a smoother, more reliable, and seamless quiz experience directly within ZTAP. 🏆 Challenge Mode: Added a new Challenge Mode to make quizzes more interactive and engaging, encouraging students to test their knowledge in a more dynamic format. 📱 QR Invite Codes: Added QR-based invite codes for quick and convenient access to quizzes, sessions, and activities, reducing setup time for students and professors. 🤖 Course Assistant System: Introduced a new Course Assistant system to support course management and provide smarter assistance throughout the academic workflow. 🐛 Bug Fixes: Resolved various issues across the application to improve stability, reliability, navigation, and overall user experience."
+},
   {
 "title": "ZTAP 1.2.2 — Smarter Quiz & TP Sessions, Improved Navigation & New Teaching Tools 🎓⚡",
 "timestamp": "2026-10-04T00:00:00Z",
