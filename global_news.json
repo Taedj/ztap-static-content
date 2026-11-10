@@ -1,5 +1,10 @@
 [
 {
+"title": "ZTAP 1.4.1 — Attendance Fixes, Class Transfers & Secure Admin 🛠️🔐",
+"timestamp": "2026-11-10T00:00:00Z",
+"content": "✅ Attendance fixes — Sessions are saved by calendar day, so no more duplicate records. Manual edits in the archive now save correctly, and points can't be awarded twice for the same session.\n\n🔁 Class transfers — Moving a student to another class keeps their earlier classes as history. Points and attendance from before the move are never deleted, and the current class counts only from the move date.\n\n📜 Previous academic history — Professors can see a student's earlier classes: attendance, absences, points and dates.\n\n🗓️ Clearer enrollment — Days before a student joined show "N/A" instead of "-".\n\n💬 Chat — Messages can be selected and copied, and links and email addresses are tappable.\n\n🔐 Security — Admin rights and activation codes are now handled on the server. A single-use code can only be used once.\n\n🌐 New web address — The web version is now at ztap-edu.web.app."
+},
+ {
 "title": "ZTAP 1.3.0 — Chat, Class QR Sharing & Scanner Zoom 💬📱",
 "timestamp": "2026-10-24T00:00:00Z",
 "content": "💬 Chat — Message professors, assistants and classmates in the app. A bubble appears on new messages (drag it, or drop on ✕ to hide). Chats are deleted after 6 months.\n\n📲 Share Your Class — Students tap the QR icon on a class to show, copy or share its join code.\n\n🔍 Scanner Zoom — Pinch or use the zoom bar to scan QR codes from far away.\n\n🧭 New Navigation — Clear bottom tabs for professors, labelled tabs for students, and a reorganised Settings (Logout is now there).\n\n✅ Attendance & Points — Present/absent filter, student search, mark all present, and undo for points.\n\n🌍 Languages — Full French & Arabic, fixed right-to-left layouts, reports in your language.\n\n⚡ Reliability — Clearer errors with Retry, better layouts and many fixes.\n\n🙏 Special thanks to Professor Lamia HAMDI for the valuable contribution to this update."
