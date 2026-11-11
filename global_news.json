@@ -1,74 +1,75 @@
+
 [
-{
-"title": "ZTAP 1.4.1 — Attendance Fixes, Class Transfers & Secure Admin 🛠️🔐",
-"timestamp": "2026-11-10T00:00:00Z",
-"content": "✅ Attendance fixes — Sessions are saved by calendar day, so no more duplicate records. Manual edits in the archive now save correctly, and points can't be awarded twice for the same session.\n\n🔁 Class transfers — Moving a student to another class keeps their earlier classes as history. Points and attendance from before the move are never deleted, and the current class counts only from the move date.\n\n📜 Previous academic history — Professors can see a student's earlier classes: attendance, absences, points and dates.\n\n🗓️ Clearer enrollment — Days before a student joined show "N/A" instead of "-".\n\n💬 Chat — Messages can be selected and copied, and links and email addresses are tappable.\n\n🔐 Security — Admin rights and activation codes are now handled on the server. A single-use code can only be used once.\n\n🌐 New web address — The web version is now at ztap-edu.web.app."
-},
- {
-"title": "ZTAP 1.3.0 — Chat, Class QR Sharing & Scanner Zoom 💬📱",
-"timestamp": "2026-10-24T00:00:00Z",
-"content": "💬 Chat — Message professors, assistants and classmates in the app. A bubble appears on new messages (drag it, or drop on ✕ to hide). Chats are deleted after 6 months.\n\n📲 Share Your Class — Students tap the QR icon on a class to show, copy or share its join code.\n\n🔍 Scanner Zoom — Pinch or use the zoom bar to scan QR codes from far away.\n\n🧭 New Navigation — Clear bottom tabs for professors, labelled tabs for students, and a reorganised Settings (Logout is now there).\n\n✅ Attendance & Points — Present/absent filter, student search, mark all present, and undo for points.\n\n🌍 Languages — Full French & Arabic, fixed right-to-left layouts, reports in your language.\n\n⚡ Reliability — Clearer errors with Retry, better layouts and many fixes.\n\n🙏 Special thanks to Professor Lamia HAMDI for the valuable contribution to this update."
-},
- {
-"title": "ZTAP 1.2.5 — Smoother Android Login, Easy Browser Access & Flexible Class Management 📱🎓",
-"timestamp": "2026-10-08T00:00:00Z",
-"content": "📱 Android Login Improvements: Redesigned the Android login screen with a static, non-scrollable layout and centered input fields for a cleaner and more focused sign-in experience. 🌐 Browser Version: Added a new Browser Version button that opens a convenient floating dialog with a large QR code, clickable URL, and Share button for quick access from any device. 👨‍🏫 Student Class Management: Professors can now easily move enrolled students between classes directly from the Students screen using the folder icon available for each student. ⚡ Usability Improvements: Streamlined access and classroom management to make ZTAP faster and more convenient for both professors and students."
-},
   {
-"title": "ZTAP 1.2.4 — Native Quiz System, Challenge Mode, QR Invites & Course Assistant 🎓⚡",
-"timestamp": "2026-10-08T00:00:00Z",
-"content": "✨ Native Quiz System: Introduced a fully integrated native quiz system for a smoother, more reliable, and seamless quiz experience directly within ZTAP. 🏆 Challenge Mode: Added a new Challenge Mode to make quizzes more interactive and engaging, encouraging students to test their knowledge in a more dynamic format. 📱 QR Invite Codes: Added QR-based invite codes for quick and convenient access to quizzes, sessions, and activities, reducing setup time for students and professors. 🤖 Course Assistant System: Introduced a new Course Assistant system to support course management and provide smarter assistance throughout the academic workflow. 🐛 Bug Fixes: Resolved various issues across the application to improve stability, reliability, navigation, and overall user experience."
-},
+    "title": "ZTAP 1.4.1 — Attendance Fixes, Class Transfers & Secure Admin 🛠️🔐",
+    "timestamp": "2026-11-10T00:00:00Z",
+    "content": "✅ Attendance fixes — Sessions are saved by calendar day, so no more duplicate records. Manual edits in the archive now save correctly, and points can't be awarded twice for the same session.\n\n🔁 Class transfers — Moving a student to another class keeps their earlier classes as history. Points and attendance from before the move are never deleted, and the current class counts only from the move date.\n\n📜 Previous academic history — Professors can see a student's earlier classes: attendance, absences, points and dates.\n\n🗓️ Clearer enrollment — Days before a student joined show \"N/A\" instead of \"-\".\n\n💬 Chat — Messages can be selected and copied, and links and email addresses are tappable.\n\n🔐 Security — Admin rights and activation codes are now handled on the server. A single-use code can only be used once.\n\n🌐 New web address — The web version is now at ztap-edu.web.app."
+  },
   {
-"title": "ZTAP 1.2.2 — Smarter Quiz & TP Sessions, Improved Navigation & New Teaching Tools 🎓⚡",
-"timestamp": "2026-10-04T00:00:00Z",
-"content": "🐛 Bug Fixes: Resolved issues affecting Quiz and TP sessions to improve reliability and ensure a smoother academic workflow. 📱 Enhanced Navigation: Improved leaderboard navigation and interface behavior in landscape mode and on tablets for a more consistent experience across screen sizes. ✨ Name Formatting: Introduced standardized name formatting across all screens for a cleaner, more consistent presentation throughout the application. 📝 TP Cockpit — Google Forms Setup: Added a new professor-oriented setup workflow to help configure Google Forms for practical sessions (TP), simplifying online assessments and student answer collection. 🌍 Localization Improvements: Refined multilingual support to provide more consistent translations and a smoother experience across the app's supported languages."
-},
+    "title": "ZTAP 1.3.0 — Chat, Class QR Sharing & Scanner Zoom 💬📱",
+    "timestamp": "2026-10-24T00:00:00Z",
+    "content": "💬 Chat — Message professors, assistants and classmates in the app. A bubble appears on new messages (drag it, or drop on ✕ to hide). Chats are deleted after 6 months.\n\n📲 Share Your Class — Students tap the QR icon on a class to show, copy or share its join code.\n\n🔍 Scanner Zoom — Pinch or use the zoom bar to scan QR codes from far away.\n\n🧭 New Navigation — Clear bottom tabs for professors, labelled tabs for students, and a reorganised Settings (Logout is now there).\n\n✅ Attendance & Points — Present/absent filter, student search, mark all present, and undo for points.\n\n🌍 Languages — Full French & Arabic, fixed right-to-left layouts, reports in your language.\n\n⚡ Reliability — Clearer errors with Retry, better layouts and many fixes.\n\n🙏 Special thanks to Professor Lamia HAMDI for the valuable contribution to this update."
+  },
   {
-"title": "ZTAP 1.2.1 — Multilingual Experience, Smarter Management & Performance Upgrades 🌍✨",
-"timestamp": "2026-10-03T18:00:00Z",
-"content": "🎓 Session Labels Simplified: Standardized course session types as C / T / L (Course · Tutorial · Lab) across the Attendance screen, Course Materials, and Workload Dashboard for a clearer and more consistent experience. 🌍 Full Multilingual Support: Complete app-wide localization in English, French, and Arabic, ensuring every screen, dialog, and label respects the user's selected language. 📊 Performance Analytics Unlocked: Fixed a caching issue that incorrectly restricted access to the Performance Analytics tab for active Pro subscribers. 👥 User Management Improvements: Improved Last Login sorting to display the most recent logins first, introduced a new Cleanup tool to preview and permanently delete inactive accounts and their Firebase data based on a configurable inactivity period, and fixed ghost cards appearing after deletion. 🏷️ Manage Groups Fixes: Empty groups are now visible in the group manager, with dropdown synchronization and overflow display issues resolved. 🛠️ Bug Fixes & Stability: Corrected various layout issues and data display inconsistencies across multiple screens to deliver a smoother, more reliable application experience."
-},
+    "title": "ZTAP 1.2.5 — Smoother Android Login, Easy Browser Access & Flexible Class Management 📱🎓",
+    "timestamp": "2026-10-08T00:00:00Z",
+    "content": "📱 Android Login Improvements: Redesigned the Android login screen with a static, non-scrollable layout and centered input fields for a cleaner and more focused sign-in experience. 🌐 Browser Version: Added a new Browser Version button that opens a convenient floating dialog with a large QR code, clickable URL, and Share button for quick access from any device. 👨‍🏫 Student Class Management: Professors can now easily move enrolled students between classes directly from the Students screen using the folder icon available for each student. ⚡ Usability Improvements: Streamlined access and classroom management to make ZTAP faster and more convenient for both professors and students."
+  },
   {
-  "title": "ZTAP 1.1.7 — Performance Boost, Real-Time Precision & Core Optimizations 💎⚡",
-  "timestamp": "2026-02-25T18:00:00Z",
-  "content": "💎 Performance & Cost Optimizations: Deep under-the-hood enhancements to improve loading speed, reduce unnecessary data reads, and optimize overall resource consumption—making the application faster while improving operational efficiency. 🔄 Real-time Improvements: Enhanced synchronization mechanisms to ensure smoother, more accurate live updates across sessions, dashboards, and collaborative features. 🛠️ Technical Fixes: Implemented structural refinements and resolved internal issues to strengthen stability, responsiveness, and long-term maintainability."
-},
+    "title": "ZTAP 1.2.4 — Native Quiz System, Challenge Mode, QR Invites & Course Assistant 🎓⚡",
+    "timestamp": "2026-10-08T00:00:00Z",
+    "content": "✨ Native Quiz System: Introduced a fully integrated native quiz system for a smoother, more reliable, and seamless quiz experience directly within ZTAP. 🏆 Challenge Mode: Added a new Challenge Mode to make quizzes more interactive and engaging, encouraging students to test their knowledge in a more dynamic format. 📱 QR Invite Codes: Added QR-based invite codes for quick and convenient access to quizzes, sessions, and activities, reducing setup time for students and professors. 🤖 Course Assistant System: Introduced a new Course Assistant system to support course management and provide smarter assistance throughout the academic workflow. 🐛 Bug Fixes: Resolved various issues across the application to improve stability, reliability, navigation, and overall user experience."
+  },
   {
-  "title": "ZTAP 1.1.4 — Advanced Group Control, Smarter Calculations & Polished Experience 🎓📊",
-  "timestamp": "2026-02-21T18:00:00Z",
-  "content": "🎓 Advanced Group Management: Introducing a more powerful and flexible group management system, allowing better organization, structured subgroup handling, and improved coordination across academic activities. 🎨 UI/UX Improvements: Refined interface elements, enhanced visual harmony, and smoother navigation flows to deliver a cleaner, more intuitive user experience. 📊 Workload Calculator Integration: Seamlessly integrated workload calculation tools to help users efficiently track, compute, and manage teaching hours with greater accuracy. 🐛 Bug Fixes: Resolved reported issues and optimized system performance to ensure enhanced stability and reliability throughout the application."
-},
+    "title": "ZTAP 1.2.2 — Smarter Quiz & TP Sessions, Improved Navigation & New Teaching Tools 🎓⚡",
+    "timestamp": "2026-10-04T00:00:00Z",
+    "content": "🐛 Bug Fixes: Resolved issues affecting Quiz and TP sessions to improve reliability and ensure a smoother academic workflow. 📱 Enhanced Navigation: Improved leaderboard navigation and interface behavior in landscape mode and on tablets for a more consistent experience across screen sizes. ✨ Name Formatting: Introduced standardized name formatting across all screens for a cleaner, more consistent presentation throughout the application. 📝 TP Cockpit — Google Forms Setup: Added a new professor-oriented setup workflow to help configure Google Forms for practical sessions (TP), simplifying online assessments and student answer collection. 🌍 Localization Improvements: Refined multilingual support to provide more consistent translations and a smoother experience across the app's supported languages."
+  },
   {
-  "title": "ZTAP 1.1.3 — Refined Experience, Smarter Announcements & Stability Boost ✨📢",
-  "timestamp": "2026-02-11T18:00:00Z",
-  "content": "🎨 UI/UX Consistency Improvements: A major visual refinement across the entire application to ensure a more cohesive, polished, and professional user experience. 📢 Enhanced Announcement System: Improved structure and presentation of announcements for clearer communication and better engagement. 🎬 Playback Fixes: Resolved critical media playback issues to ensure smooth and reliable content access. 🛠️ Stability Improvements: Addressed key performance and stability bugs to deliver a more dependable and seamless app experience."
-},
+    "title": "ZTAP 1.2.1 — Multilingual Experience, Smarter Management & Performance Upgrades 🌍✨",
+    "timestamp": "2026-10-03T18:00:00Z",
+    "content": "🎓 Session Labels Simplified: Standardized course session types as C / T / L (Course · Tutorial · Lab) across the Attendance screen, Course Materials, and Workload Dashboard for a clearer and more consistent experience. 🌍 Full Multilingual Support: Complete app-wide localization in English, French, and Arabic, ensuring every screen, dialog, and label respects the user's selected language. 📊 Performance Analytics Unlocked: Fixed a caching issue that incorrectly restricted access to the Performance Analytics tab for active Pro subscribers. 👥 User Management Improvements: Improved Last Login sorting to display the most recent logins first, introduced a new Cleanup tool to preview and permanently delete inactive accounts and their Firebase data based on a configurable inactivity period, and fixed ghost cards appearing after deletion. 🏷️ Manage Groups Fixes: Empty groups are now visible in the group manager, with dropdown synchronization and overflow display issues resolved. 🛠️ Bug Fixes & Stability: Corrected various layout issues and data display inconsistencies across multiple screens to deliver a smoother, more reliable application experience."
+  },
   {
-  "title": "ZTAP 1.1.2 — Greater Control, Customization & Production Ready 🚀🎨",
-  "timestamp": "2026-02-11T10:00:00Z",
-  "content": "🚪 Student \"Exit Class\" Feature: Students can now securely leave a class when needed, giving them more flexibility and control over their enrollment. 🎨 Multi-Theme Support: Enjoy a customizable experience with multiple theme options for a more personalized interface. 📢 Production Ad Configuration: Ads are now fully configured for production, ensuring stable and optimized monetization performance. 🏗️ Versioning & Production Build: Improved version control and optimized production build setup for better stability, maintainability, and deployment readiness."
-},
+    "title": "ZTAP 1.1.7 — Performance Boost, Real-Time Precision & Core Optimizations 💎⚡",
+    "timestamp": "2026-02-25T18:00:00Z",
+    "content": "💎 Performance & Cost Optimizations: Deep under-the-hood enhancements to improve loading speed, reduce unnecessary data reads, and optimize overall resource consumption—making the application faster while improving operational efficiency. 🔄 Real-time Improvements: Enhanced synchronization mechanisms to ensure smoother, more accurate live updates across sessions, dashboards, and collaborative features. 🛠️ Technical Fixes: Implemented structural refinements and resolved internal issues to strengthen stability, responsiveness, and long-term maintainability."
+  },
   {
-  "title": "ZTAP 1.1.1 — Smarter Tracking, Faster Experience & Enhanced Security 🎓⚡",
-  "timestamp": "2026-02-07T10:00:00Z",
-  "content": "🎓 Professor Badge Tracking: A new management interface in the Points section to monitor, grant, and track student achievement badges in real time. ⚡ Performance Boost: Faster loading of student marks and profiles thanks to optimized queries and smart caching. 📱 Enhanced UI & Navigation: Improved Archive filtering and a reorganized app structure for a smoother experience. 📚 Standardized Course Materials: All academic chapters now feature a premium, consistent design with better interactions. 🔒 Security & Stability: Critical backend security updates and dependency upgrades ensure reliable performance across all devices."
-},
-{
-  "title": "ZTAP 1.1.0 — Faster Performance & Stability Improvements ⚡",
-  "timestamp": "2025-11-27T21:00:00Z",
-  "content": "🚀 Performance Boost: Marks load significantly faster with optimized data handling. 📱 Stability: Fixed layout issues in Archives and improved overall app responsiveness. 🔧 Under-the-hood: Enhanced system reliability and smoother navigation."
-},
-{
-  "title": "ZTAP 1.0.9 — Marks Stability, Cleaner UI & Smarter Archives ⚡",
-  "timestamp": "2025-11-27T10:00:00Z",
-  "content": "📘 Marks stay saved on scroll, unified student name format, quick single-sheet export, enhanced Archives session view with color status & details, cleaner invite code copy/share UI, and overall stability fixes."
-},
- {
-  "title": "ZTAP 1.0.8 — Smarter Attendance, Dynamic Settings & Insightful Dashboards 📊",
-  "timestamp": "2025-11-26T10:00:00Z",
-  "content": "🔥 ZTAP 1.0.8 is officially here — bringing more intelligence, clarity, and real-time control to your teaching experience!\n\n✨ **What’s New:**\n- **Attendance Screen Improvements:** Enhanced layout, faster loading, and cleaner student status tracking for smoother session management.\n- **Settings Screen Live Updates:** Instantly apply changes without restarting the app — everything updates live as you adjust!\n- **Student Dashboard Chart Enhancements:** More interactive, clearer performance visuals with improved analytics for better academic insights.\n\n💡 ZTAP 1.0.8 makes teaching smarter, faster, and more visual than ever!"
-},
+    "title": "ZTAP 1.1.4 — Advanced Group Control, Smarter Calculations & Polished Experience 🎓📊",
+    "timestamp": "2026-02-21T18:00:00Z",
+    "content": "🎓 Advanced Group Management: Introducing a more powerful and flexible group management system, allowing better organization, structured subgroup handling, and improved coordination across academic activities. 🎨 UI/UX Improvements: Refined interface elements, enhanced visual harmony, and smoother navigation flows to deliver a cleaner, more intuitive user experience. 📊 Workload Calculator Integration: Seamlessly integrated workload calculation tools to help users efficiently track, compute, and manage teaching hours with greater accuracy. 🐛 Bug Fixes: Resolved reported issues and optimized system performance to ensure enhanced stability and reliability throughout the application."
+  },
+  {
+    "title": "ZTAP 1.1.3 — Refined Experience, Smarter Announcements & Stability Boost ✨📢",
+    "timestamp": "2026-02-11T18:00:00Z",
+    "content": "🎨 UI/UX Consistency Improvements: A major visual refinement across the entire application to ensure a more cohesive, polished, and professional user experience. 📢 Enhanced Announcement System: Improved structure and presentation of announcements for clearer communication and better engagement. 🎬 Playback Fixes: Resolved critical media playback issues to ensure smooth and reliable content access. 🛠️ Stability Improvements: Addressed key performance and stability bugs to deliver a more dependable and seamless app experience."
+  },
+  {
+    "title": "ZTAP 1.1.2 — Greater Control, Customization & Production Ready 🚀🎨",
+    "timestamp": "2026-02-11T10:00:00Z",
+    "content": "🚪 Student \"Exit Class\" Feature: Students can now securely leave a class when needed, giving them more flexibility and control over their enrollment. 🎨 Multi-Theme Support: Enjoy a customizable experience with multiple theme options for a more personalized interface. 📢 Production Ad Configuration: Ads are now fully configured for production, ensuring stable and optimized monetization performance. 🏗️ Versioning & Production Build: Improved version control and optimized production build setup for better stability, maintainability, and deployment readiness."
+  },
+  {
+    "title": "ZTAP 1.1.1 — Smarter Tracking, Faster Experience & Enhanced Security 🎓⚡",
+    "timestamp": "2026-02-07T10:00:00Z",
+    "content": "🎓 Professor Badge Tracking: A new management interface in the Points section to monitor, grant, and track student achievement badges in real time. ⚡ Performance Boost: Faster loading of student marks and profiles thanks to optimized queries and smart caching. 📱 Enhanced UI & Navigation: Improved Archive filtering and a reorganized app structure for a smoother experience. 📚 Standardized Course Materials: All academic chapters now feature a premium, consistent design with better interactions. 🔒 Security & Stability: Critical backend security updates and dependency upgrades ensure reliable performance across all devices."
+  },
+  {
+    "title": "ZTAP 1.1.0 — Faster Performance & Stability Improvements ⚡",
+    "timestamp": "2025-11-27T21:00:00Z",
+    "content": "🚀 Performance Boost: Marks load significantly faster with optimized data handling. 📱 Stability: Fixed layout issues in Archives and improved overall app responsiveness. 🔧 Under-the-hood: Enhanced system reliability and smoother navigation."
+  },
+  {
+    "title": "ZTAP 1.0.9 — Marks Stability, Cleaner UI & Smarter Archives ⚡",
+    "timestamp": "2025-11-27T10:00:00Z",
+    "content": "📘 Marks stay saved on scroll, unified student name format, quick single-sheet export, enhanced Archives session view with color status & details, cleaner invite code copy/share UI, and overall stability fixes."
+  },
+  {
+    "title": "ZTAP 1.0.8 — Smarter Attendance, Dynamic Settings & Insightful Dashboards 📊",
+    "timestamp": "2025-11-26T10:00:00Z",
+    "content": "🔥 ZTAP 1.0.8 is officially here — bringing more intelligence, clarity, and real-time control to your teaching experience!\n\n✨ **What’s New:**\n- **Attendance Screen Improvements:** Enhanced layout, faster loading, and cleaner student status tracking for smoother session management.\n- **Settings Screen Live Updates:** Instantly apply changes without restarting the app — everything updates live as you adjust!\n- **Student Dashboard Chart Enhancements:** More interactive, clearer performance visuals with improved analytics for better academic insights.\n\n💡 ZTAP 1.0.8 makes teaching smarter, faster, and more visual than ever!"
+  },
   {
     "title": "ZTAP 1.0.7 — Rich Media & Bug Fixes! 🎬",
     "timestamp": "2025-11-25T10:00:00Z",
